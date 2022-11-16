@@ -1,0 +1,15 @@
+{
+  "name": "Studious Crabs Collection",
+  "symbol": "CRAB",
+  "description": "Collection of 10 crabs seeking refuge from overfishing on the blockchain.",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
